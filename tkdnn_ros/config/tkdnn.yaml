@@ -1,0 +1,10 @@
+yolo_model:
+
+  video_file:
+    name: /media/nvidia/Seagate_USB/S2Avi150944-0000.avi
+  weights_file:
+    name: /home/nvidia/catkin_ws/src/tkdnn_ros/tkdnn_ros/yolo_network_config/weights/yolo4_fp32.rt
+  threshold:
+    value: 0.5
+  detection_classes:
+    value: 13
