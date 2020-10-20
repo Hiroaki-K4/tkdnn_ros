@@ -22,7 +22,7 @@ catkin_ws/src/tkdnn_ros/tkdnn_ros/yolo_network_config/weights/
 ```
 2. Edit config file.
 ```
-catkin_ws/src/tkdnn_ros/tkdnn_ros/config/weights/tkdnn_.yaml
+catkin_ws/src/tkdnn_ros/tkdnn_ros/config/weights/tkdnn.yaml
 ```
 
 ## Run
