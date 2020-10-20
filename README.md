@@ -25,7 +25,7 @@ catkin_ws/src/tkdnn_ros/tkdnn_ros/yolo_network_config/weights/
 catkin_ws/src/tkdnn_ros/tkdnn_ros/config/weights/tkdnn.yaml
 ```
 - Write a video path that you want to infer.
-- Place trt file.
+- Write trt file path.
 - Write a threshold.
 - Write the number of classes
 
