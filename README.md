@@ -11,7 +11,7 @@ This branch works on every NVIDIA GPU that supports the dependencies:
 
 ## Preparation
 1. Replace the tkdnn repository with the tkdnn folder in this repository.
-2. Make environment. Please follow Instructions of tkDNN repository.
+2. Make environment. Please follow Instructions of [tkDNN](https://github.com/ceccocats/tkDNN) repository.
 3. Make TensorRT inference engine(trt file).
 
 
